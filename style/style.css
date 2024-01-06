@@ -28,14 +28,15 @@ form label {
   margin-top: 20px;
 }
 input[type="submit"] {
-  margin-top: 30px;
+  margin-top: 77px;
   border: none;
-  width: 100px;
-  height: 30px;
+  width: 125px;
+  height: 50px;
   background-color: rgb(255, 0, 157);
   border-radius: 100px;
   color: white;
   cursor: pointer;
+  font-size: 22px;
 }
 .sing {
   position: absolute;
@@ -53,4 +54,13 @@ input[type="submit"]:hover {
 input {
   width: 302px;
   height: 27px;
+}
+.txt {
+  position: absolute;
+  right: 20px;
+}
+input[type="checkbox"] {
+  position: absolute;
+  right: 146px;
+  margin-top: 17px;
 }

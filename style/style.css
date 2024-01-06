@@ -8,9 +8,8 @@
 }
 .section-1,
 img {
-  
-    width: 956px;
-    height: 960px;
+  width: 956px;
+  height: 960px;
 }
 form {
   width: 310px;
@@ -51,8 +50,7 @@ hr {
 input[type="submit"]:hover {
   background-color: rgb(173, 175, 177);
 }
-input{
-    width: 302px;
-    height: 27px;
+input {
+  width: 302px;
+  height: 27px;
 }
-
